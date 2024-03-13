@@ -1,0 +1,43 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:5:{i:763;O:8:"stdClass":11:{s:2:"id";s:3:"237";s:2:"cm";s:3:"763";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:4:"1232";s:6:"module";s:1:"9";s:5:"added";s:10:"1707904104";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:13:"Announcements";}i:766;O:8:"stdClass":14:{s:2:"id";s:3:"289";s:2:"cm";s:3:"766";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:9:"sectionid";s:4:"1233";s:6:"module";s:2:"18";s:5:"added";s:10:"1707905899";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:41:"NOTES OF INTRODUCTION TO JAVA PROGRAMMING";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:767;O:8:"stdClass":14:{s:2:"id";s:3:"177";s:2:"cm";s:3:"767";s:3:"mod";s:6:"assign";s:7:"section";s:1:"2";s:9:"sectionid";s:4:"1234";s:6:"module";s:1:"1";s:5:"added";s:10:"1707906568";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:47:"ASSIGNMENT1 OF INTRODUCTION TO JAVA PROGRAMMING";s:7:"content";s:1050:"<div class="no-overflow"><p dir="ltr" style="text-align: left;"><p><b>Instructions:</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>This assignment will be done in a group of at
+most two members<u></u></b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>Each group member should do and submit
+his/her own copy on E-learning platform. And each group member will submit his
+own copy on E-learning</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>The Work will be presented on Thursday
+15/2/2024</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>Make sure you have at least one java program
+for each sub-question.</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>You will also have to submit the hard copy on
+the day of presentation.</b></p><br></p></div>";}i:771;O:8:"stdClass":15:{s:2:"id";s:3:"180";s:2:"cm";s:3:"771";s:3:"mod";s:6:"assign";s:7:"section";s:1:"2";s:9:"sectionid";s:4:"1234";s:6:"module";s:1:"1";s:5:"added";s:10:"1707906995";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:47:"ASSIGNMENT1 OF INTRODUCTION TO JAVA PROGRAMMING";s:7:"content";s:1050:"<div class="no-overflow"><p dir="ltr" style="text-align: left;"><p><b>Instructions:</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>This assignment will be done in a group of at
+most two members<u></u></b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>Each group member should do and submit
+his/her own copy on E-learning platform. And each group member will submit his
+own copy on E-learning</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>The Work will be presented on Thursday
+15/2/2024</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>Make sure you have at least one java program
+for each sub-question.</b></p>
+
+<p><!--[if !supportLists]-->·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--[endif]--><b>You will also have to submit the hard copy on
+the day of presentation.</b></p><br></p></div>";}i:1075;O:8:"stdClass":16:{s:2:"id";s:3:"422";s:2:"cm";s:4:"1075";s:3:"mod";s:8:"resource";s:7:"section";s:1:"3";s:9:"sectionid";s:4:"1235";s:6:"module";s:2:"18";s:5:"added";s:10:"1708948614";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:65:"QUESTIONS FOR SELF EVALUATION IN INTRODUCTION TO JAVA PROGRAMMING";s:7:"content";s:212:"<div class="no-overflow"><p dir="ltr" style="text-align: left;">Please try to do all these questions. You can do all alone or you can decide to formulate groups from which you can work on the questions.</p></div>";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}}s:12:"sectioncache";a:5:{i:0;O:8:"stdClass":3:{s:2:"id";s:4:"1232";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":3:{s:2:"id";s:4:"1233";s:4:"name";s:5:"NOTES";s:12:"availability";N;}i:2;O:8:"stdClass":3:{s:2:"id";s:4:"1234";s:4:"name";s:10:"ASSIGNMENT";s:12:"availability";N;}i:3;O:8:"stdClass":3:{s:2:"id";s:4:"1235";s:4:"name";N;s:12:"availability";N;}i:4;O:8:"stdClass":3:{s:2:"id";s:4:"1236";s:4:"name";N;s:12:"availability";N;}}s:9:"shortname";s:51:"INTRODUCTION TO JAVA PROGRAMMING(2023-2024) EVENING";s:8:"fullname";s:32:"INTRODUCTION TO JAVA PROGRAMMING";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1708948616";}
